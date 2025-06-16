@@ -8,7 +8,7 @@
 ![PHP](https://img.shields.io/badge/PHP-Average-blue)
 
 [![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DiniBis&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DiniBis&show_icons=true)](https://github.com/DiniBis)
 <!--
 **DiniBis/DiniBis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
