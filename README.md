@@ -1,5 +1,14 @@
 # 🦈
+![Java](https://img.shields.io/badge/Java-Advanced-orange)
+![Python](https://img.shields.io/badge/Python-Advanced-yellow)
+![JS](https://img.shields.io/badge/JS-Advanced-yellow)
+![Docker](https://img.shields.io/badge/Docker-Advanced-blue)
+![C++](https://img.shields.io/badge/C++-Average-red)
+![Godot](https://img.shields.io/badge/Godot-Average-blue)
+![PHP](https://img.shields.io/badge/PHP-Average-blue)
+
 [![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DiniBis&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **DiniBis/DiniBis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
